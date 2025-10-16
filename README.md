@@ -15,10 +15,10 @@ El objetivo es ofrecer una base sólida para proyectos académicos o empresarial
     Spring Data JPA
     mysql-connector-j
 
-🗄️ MySQL Workbench / MySQL Server
-🧩 Hibernate (ORM)
-🧰 Maven (gestor de dependencias)
-💻 Postman (para probar endpoints)
+- MySQL Workbench / MySQL Server
+- Hibernate (ORM)
+- Maven (gestor de dependencias)
+- Postman (para probar endpoints)
 
 -----------------------------------------------------------------------------------------------------------------------------------------------
 
